@@ -17,6 +17,12 @@ Busco constantemente conectar la ingeniería de software con las necesidades com
 *   Construyendo automatizaciones comerciales y explorando el *Prompt Engineering* para inyección de datos estructurados.
 *   Documentando sistemas técnicos y flujos de incidencias para asegurar la calidad del software.
 
+### 📂 Proyectos Destacados
+
+*   **[Arquitectura de Base de Datos Híbrida](https://github.com/Leonardo-Ascencio/sistema-db-hibrido)**
+*   **Tecnologías:** MongoDB, Neo4j, Redis, PHP.
+*   **Descripción:** Desarrollo e implementación de un sistema interconectado para la gestión de dependencias y assets. El proyecto articula una base de datos documental (MongoDB) para metadatos, un modelo orientado a grafos (Neo4j) para mapear relaciones de impacto, y un motor clave-valor (Redis) para el control de sesiones y bloqueos en tiempo real.
+
 ### 📫 Cómo contactarme:
 *   **Email:** emmanuelascencio17@gmail.com
 *   **LinkedIn:** www.linkedin.com/in/leonardo-emmanuel-ascencio-perez-4a60a8254
