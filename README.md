@@ -7,7 +7,7 @@ Busco constantemente conectar la ingeniería de software con las necesidades com
 ### 💻 Tecnologías y Herramientas que manejo:
 
 *   **Lenguajes y Desarrollo:** Python, PHP, JavaScript, C, C#, C++, HTML, CSS.
-*   **Backend y APIs:** FastAPI, consumo e integración de APIs (OpenAI, Anthropic).
+*   **Backend y APIs:** FastAPI, consumo e integración de APIs (OpenAI).
 *   **Bases de Datos:** MongoDB, MySQL.
 *   **Herramientas e Infraestructura:** Git, Visual Studio, Visual Studio Code, AnyDesk, Putty.
 *   **IA y Datos:** Make, Zapier, Claude, Power BI, Excel, Google Workspace.
